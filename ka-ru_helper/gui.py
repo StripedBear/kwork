@@ -156,8 +156,8 @@ class About(customtkinter.CTkFrame):
         self.textbox = customtkinter.CTkTextbox(self, width=400, height=200, corner_radius=8)
         self.textbox.pack()
 
-        self.text = 'Бағдарлама туралы - Ақжан Сәкенованың дипломдық жобасының дауыстық көмекшісі.\n\n\n\n' \
-                    'Голосовой помощник для дипломного проекта Акжан Сакеновой.'
+        self.text = 'Бағдарлама туралы - ***** дипломдық жобасының дауыстық көмекшісі.\n\n\n\n' \
+                    'Голосовой помощник для дипломного проекта ****.'
         self.textbox.insert("0.0", self.text)
         self.textbox.configure(state="disabled")
 
