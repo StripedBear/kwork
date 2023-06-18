@@ -1,12 +1,12 @@
 # KWORK
 various freelance projects of kwork.ru
 
-## wildfire - Application for identifying a fire from satellite images of Landsat-8
+## [Application for identifying a fire from satellite images of Landsat-8](https://github.com/StripedBear/kwork/tree/master/wildfire)
 
-## rabotaru - Parser of actual vacancies from Rabota.ru
+## [Parser of actual vacancies from Rabota.ru](https://github.com/StripedBear/kwork/tree/master/rabotaru)
 
-## ka-ru_helper - Kazakh-Russian Voice hepler
+## [Kazakh-Russian Voice hepler](https://github.com/StripedBear/kwork/tree/master/ka-ru_helper)
 
-## detect_and_seg - Application for searching and segmenting bags, backpacks and knives on video
+## [Application for searching and segmenting bags, backpacks and knives on video](https://github.com/StripedBear/kwork/tree/master/detect_and_seg)
 
-## channel_migration - Script for migrating a video from a YouTube channel to a customer's website
+## [Script for migrating a video from a YouTube channel to a customer's website](https://github.com/StripedBear/kwork/tree/master/channel_migration)
