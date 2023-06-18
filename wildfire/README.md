@@ -17,4 +17,3 @@ In the file firesearch.py, on lines 27 and 28, enter the required data for the p
 A link for accessing the application will appear in the command line, in the format "Use http://192.168.1.136:8080/ to access the application".
 
 
-![screenshot](screenshot.png)
