@@ -1,7 +1,8 @@
 # Application for identifying a fire from satellite images of Landsat-8
 
-![title](WILDFIRE.png)
-
+<p align="center">
+  <img src="WILDFIRE.png" alt="title">
+</p>
 
 ## Installation of Dependencies
 ```
