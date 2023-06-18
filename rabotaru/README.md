@@ -38,10 +38,10 @@ python rabota.py
 
 ## Configuration 
 
-USER=example_name            <= Username on rabota.ru
-PASSWORD=example_password    <= Password of the user on rabota.ru
-TOKEN=example_token          <= Token obtained from rabota.ru
-ARCHIVE=archive.txt          <= Name and path to the file
-RESULT=result.txt            <= Name and path to the file
-start_id=47984122     		 <= Vacancy ID to start parsing from
-SLEEP=300                    <= Waiting time for new vacancies in seconds
+USER=example_name            <= Username on rabota.ru<br>
+PASSWORD=example_password    <= Password of the user on rabota.ru<br>
+TOKEN=example_token          <= Token obtained from rabota.ru<br>
+ARCHIVE=archive.txt          <= Name and path to the file<br>
+RESULT=result.txt            <= Name and path to the file<br>
+start_id=47984122     		 <= Vacancy ID to start parsing from<br>
+SLEEP=300                    <= Waiting time for new vacancies in seconds<br>
