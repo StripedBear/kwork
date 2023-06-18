@@ -1,3 +1,5 @@
+Script for migrating a video from a YouTube channel to a customer's website
+
 ## INSTALLATION
 
 Linux/Ubuntu, etc.

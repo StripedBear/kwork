@@ -1,4 +1,4 @@
-# Parser of current vacancies from Rabota.ru
+# Parser of actual vacancies from Rabota.ru
 
 <p align="center">
   <img src="rabotaru.png" alt="title">
