@@ -175,7 +175,3 @@ if __name__ == '__main__':
     program = Gui()
     program.protocol('WM_DELETE_WINDOW', close_window)
     program.mainloop()
-
-# https://issai.nu.edu.kz/tts2-eng/
-# pyinstaller --clean --onedir --console --noupx "D:/kwork/kwork/gui.py" --add-data "d:\kwork\kwork\venv\lib\site-packages\customtkinter;customtkinter/" --add-data "D:\kwork\kwork\answers;answers" --add-data "D:\kwork\kwork\kz;kz/" --add-data "D:\kwork\kwork\ru;ru/" --add-data "D:\kwork\kwork\tabs;tabs/" --add-data "D:\kwork\kwork\library.py;library.py" --add-data "D:\kwork\kwork\main.py;main.py"
-# pyinstaller --noconfirm  "D:\kwork\pycha\kwork\gui.spec"
