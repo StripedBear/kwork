@@ -1,20 +1,15 @@
-========================
- Установка зависимостей
-========================
+# Application for identifying a fire from satellite images of Landsat-8
 
+
+## Installation of Dependencies
+```
  pip install -r requirements.txt
+```
+## Configuration 
 
-===========
- Настройка
-=========== 
+In the file firesearch.py, on lines 27 and 28, enter the required data for the portal https://earthexplorer.usgs.gov/.
+## Run
 
-В файле firesearch.py на 27,28 строках ввести данные для портала https://earthexplorer.usgs.gov/
+```python filesearch.py```
 
-========
- Запуск
-========
-
-python filesearch.py
-
-В командной строке появится ссылка для браузера:
-в виде "Use http://192.168.1.136:8080/ to access the application"
+A link for accessing the application will appear in the command line, in the format "Use http://192.168.1.136:8080/ to access the application".
